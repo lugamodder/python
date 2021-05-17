@@ -7,4 +7,6 @@ def bubble(a):
                  a[i],a[i+1] = a[i+1],a[i]
     return a
  
+
+ 
 print(bubble(a))
